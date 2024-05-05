@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting full stack web developer projects.
 - 📫 How to reach me by 📫 hurtadogiselasoledad@gmail.com and by linkedin https://www.linkedin.com/in/gisela-hurtado-ela11ian/
 - 😄 Pronouns: her
-- ⚡ Fun fact:Did you know that bees are able to recognize human faces? One study showed that bees can learn and remember facial patterns, even distinguishing between different 
+- ⚡ Fun fact: Did you know that bees are able to recognize human faces? One study showed that bees can learn and remember facial patterns, even distinguishing between different 
 expressions. 🐝👀💥🤯
 
 <!---
